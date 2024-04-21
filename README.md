@@ -5,5 +5,5 @@ For this project we researched NFL fantasy football data provided by Fantasy Pro
 ## Ethical Consideration
 This project was conducted for educational purposes only, and should not be used to influence one's decisions regarding their participation in any fantasy football related events or activities. Any transformation of the data as apart of this project did not alter or manipulate player stats in any way.
 ## The Data
-As mentioned previously, we focused on the years 2019-2023 to build our prediction model.
+As mentioned previously, we focused on the years 2019-2023 to build our prediction model. Below is a segment of the 2019 data, and all of the consecutive years followed the same depiction.
 - ![Image Info](./FinalProject/NFL_Fantasy_Files/2019_data.png)
