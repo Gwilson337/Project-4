@@ -15,3 +15,4 @@ The records included team, player rank, position, points accumulated for each of
 ### Load
 The cleaned data set was exported from the notebook and saved as a csv file.
 ## Prediction Model
+The supervised learning model 
