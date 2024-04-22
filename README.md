@@ -7,3 +7,8 @@ This project was conducted for educational purposes only, and should not be used
 ## The Data
 As mentioned previously, we focused on the years 2019-2023 to build our prediction model. Below is a segment of the 2019 data, and all of the consecutive years followed the same depiction.
 - ![Image Info](./FinalProject/NFL_Fantasy_Files/2019_data.png)
+## ETL
+### Extract 
+The records were extracted as csv files from the Fantasy Pros website, and combined into one dataset in Jupyter.
+### Transformation
+The records included team, player rank, position, points accumulated for each of the 18 weeks, the average amount of points, and the total amount of points acquired. We removed the 'points accumulated for each of the 18 weeks', 'team', and 'average points' columns, as they were not needed in or prediction model. We cleaned the data set by substituting "0" for Nan, BYE, and "-" values.
