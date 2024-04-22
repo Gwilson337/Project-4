@@ -15,4 +15,4 @@ The records included team, player rank, position, points accumulated for each of
 ### Load
 The cleaned data set was exported from the notebook and saved as a csv file.
 ## Prediction Model
-The supervised learning model Random Forest Regression was used for the machine learning portion of this project. A supervised learning model was best used for this project because we used a labeled data set that provided both the input and desired output. The model was ran 3 times, changing the parameters with each run in order to increase the accuracy.
+The supervised learning model Random Forest Regression was used for the machine learning portion of this project. A supervised learning model was best used for this project because we used a labeled data set that provided both the input and desired output. The model was ran 3 times, changing the parameters with each run in order to achieve the best accuracy.
