@@ -12,3 +12,6 @@ As mentioned previously, we focused on the years 2019-2023 to build our predicti
 The records were extracted as csv files from the Fantasy Pros website, and combined into one dataset in Jupyter.
 ### Transformation
 The records included team, player rank, position, points accumulated for each of the 18 weeks, the average amount of points, and the total amount of points acquired. We removed the 'points accumulated for each of the 18 weeks', 'team', and 'average points' columns, as they were not needed in or prediction model. We cleaned the data set by substituting "0" for Nan, BYE, and "-" values.
+### Load
+The cleaned data set was exported from the notebook and saved as a csv file.
+## Prediction Model
